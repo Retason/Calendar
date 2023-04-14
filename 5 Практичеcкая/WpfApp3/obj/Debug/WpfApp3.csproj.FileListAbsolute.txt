@@ -1,0 +1,72 @@
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\Calendar.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\DayItemControl.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\Calendar.baml
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\DayItemControl.baml
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\FoodPage.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\FoodPage.baml
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\ListControl.g.cs
+G:\Projects\Teach\retas\WpfApp3\WpfApp3\obj\Debug\ListControl.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\Calendar.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\DayItemControl.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\FoodPage.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\ListControl.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\Calendar.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\DayItemControl.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\FoodPage.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\ListControl.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Retas\Desktop\5 Практичекая\WpfApp3\obj\Debug\WpfApp3.pdb
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\bin\Debug\WpfApp3.exe.config
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\bin\Debug\WpfApp3.exe
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\bin\Debug\WpfApp3.pdb
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\Calendar.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\DayItemControl.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\FoodPage.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\ListControl.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\MainWindow.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\App.g.cs
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\Calendar.baml
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\DayItemControl.baml
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\FoodPage.baml
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\ListControl.baml
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\MainWindow.baml
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.g.resources
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.exe
+C:\Users\Retas\Desktop\5 Практичеcкая\WpfApp3\obj\Debug\WpfApp3.pdb

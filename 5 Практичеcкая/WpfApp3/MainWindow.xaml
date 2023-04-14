@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="MainWindow" Height="450" Width="476">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="26.002"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btn_beck" Content="&lt;" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="58" Height="26" Click="btn_beck_Click"/>
+        <Button x:Name="btn_Forward" Content="&gt;" HorizontalAlignment="Right" VerticalAlignment="Center" Width="58" Height="26" Click="btn_Forward_Click"/>
+        <DatePicker SelectedDateChanged="dt_SelectedDateChanged" Name="dt" Margin="58,0,58,2" Width="NaN" Height="NaN"/>
+        <Frame x:Name="frame" NavigationUIVisibility="Hidden" Grid.Row="1">
+            
+        </Frame>
+
+    </Grid>
+</Window>
